@@ -1,5 +1,5 @@
 import os
-os.chdir('C:\\Users\Zhouyu Shen\Dropbox\PC\Desktop/research/weak signal/Can machines learn weak signals/code/nn_empirical')
+
 
 import pandas as pd
 import numpy as np
