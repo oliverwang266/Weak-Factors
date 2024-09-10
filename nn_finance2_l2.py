@@ -2,26 +2,9 @@
 """
 Created on Thu Jan 11 17:12:56 2024
 
-@author: Zhouyu Shen
+@author: Oliver Wang
 """
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan  9 00:07:04 2024
 
-@author: Zhouyu Shen
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 28 23:29:26 2023
-
-@author: Zhouyu Shen
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 16 19:47:08 2023
-
-@author: Zhouyu Shen
-"""
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
 import tensorflow as tf
