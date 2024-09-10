@@ -2,12 +2,9 @@
 """
 Created on Wed Nov  8 22:45:39 2023
 
-@author: Zhouyu Shen
+@author: Oliver Wang
 """
-'''
-import os
-os.chdir('C:\\Users\Zhouyu Shen\Dropbox\PC\Desktop/research/weak signal/Can machines learn weak signals/code/realdata_jie/real/real/NN')
-'''
+
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
 from sklearn.metrics import mean_squared_error
