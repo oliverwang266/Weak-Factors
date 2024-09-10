@@ -2,12 +2,9 @@
 """
 Created on Thu Nov  9 17:09:04 2023
 
-@author: Zhouyu Shen
+@author: Oliver Wang
 """
-'''
-import os
-os.chdir('C:\\Users\Zhouyu Shen\Dropbox\PC\Desktop/research/weak signal/Can machines learn weak signals/code/realdata_jie/real/real/nn_empirical')
-'''
+
 # Micro1_scale.txt
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
