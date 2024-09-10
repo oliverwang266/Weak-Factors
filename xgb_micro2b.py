@@ -2,14 +2,9 @@
 """
 Created on Sat Jan 13 22:34:03 2024
 
-@author: Zhouyu Shen
+@author: Oliver Wang
 """
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 13 20:26:26 2024
 
-@author: Zhouyu Shen
-"""
 from sklearn.metrics import mean_squared_error
 import tensorflow as tf
 from keras.models import Sequential
