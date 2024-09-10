@@ -2,14 +2,9 @@
 """
 Created on Fri Jan 26 21:15:42 2024
 
-@author: Zhouyu Shen
+@author: Oliver Wang
 """
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 20 22:51:09 2024
 
-@author: Zhouyu Shen
-"""
 
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
