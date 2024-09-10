@@ -2,14 +2,9 @@
 """
 Created on Tue Jan 30 10:55:25 2024
 
-@author: Zhouyu Shen
+@author: Oliver Wang
 """
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 29 17:14:38 2024
 
-@author: Zhouyu Shen
-"""
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 
