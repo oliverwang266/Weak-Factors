@@ -2,7 +2,7 @@
 """
 Created on Mon Jan  8 14:36:20 2024
 
-@author: Zhouyu Shen
+@author: Oliver Wang
 """
 from sklearn.metrics import mean_squared_error
 from keras.models import Sequential
